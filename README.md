@@ -12,7 +12,7 @@ This project involves the Term 2 Simulator. After getting uWebSocketIO, one can 
 
 ## Accuracy
 The particle filter completes execution within the time of 100 seconds. And the output of simulator shows a success.
-<img src="https://github.com/jane212/" width="500">
+<img src="https://github.com/jane212/CarND-Kidnapped-Vehicle/blob/master/output.png" width="500">
 
 ## Algorithm
 This program is built on the starter code provided by Udacity CarND team.
